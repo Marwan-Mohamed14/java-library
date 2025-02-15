@@ -1,0 +1,5 @@
+1,admin,admin123,a
+999,supplier,s123,S
+10,borrower,b123,B
+10,marwan,m123,B
+33,librarian,l123,L
